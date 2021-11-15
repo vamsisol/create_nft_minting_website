@@ -1,0 +1,46 @@
+{
+  "name": "Pikachu",
+  "description": "My First Pokemon NFT",
+  "image": "image.png",
+  "edition": 100,
+  "date": 1636746476675,
+  "symbol": "",
+  "seller_fee_basis_points": 250,
+  "collection": {
+    "name": "My Pokemon NFT Collection",
+    "family": "My Family"
+  },
+  "properties": {
+    "files": [
+      {
+        "url": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AdTvpJVEX2oTkTLMF6TzgShki2buqa1oTNoJsAqixNXx",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Circles",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Pointed"
+    }
+  ]
+}
