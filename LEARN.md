@@ -158,11 +158,11 @@ Every NFT minting on candy machine requires two information:
 
 Now, we will be creating the actual assets for the minting. Create a folder named `assets` in the metaplex directory. This will contain the metadata for NFTs. In this project, we will be creating a NFT of an eye image. 
 
-The image can be downloaded from ![0.png](0.png).
+The image can be downloaded from ![https://raw.githubusercontent.com/vamsisol/create_nft_minting_website/main/learn_src/learn_assets/0.png](0.png).
 
 We need to follow a sequence for the assets naming, the first one being 0. In this quest, we will be minting just one image thus, 0.png and 0.json will be the two file names. The json file will contain all the metadata related to the NFT.
 
-A referrential json file can be found here: [0.json](https://drive.google.com/file/d/1c-ftqidGZQ8j8E1S27CyViBUMgbxd4MG/view?usp=sharing)
+A referrential json file can be found here: [0.json](https://raw.githubusercontent.com/vamsisol/create_nft_minting_website/main/learn_src/learn_assets/0.json)
 
 Depending upon the number of NFTs you want to have in the Candy Machine, you will need to have those many pairs of files.( an actual file and a JSON file for metadata).
 
@@ -330,7 +330,7 @@ ts-node js/packages/cli/src/candy-machine-cli.ts update_candy_machine  devnet --
 ```
 Make sure to provide just the network name and not the `--env` flag in the command. Provide the wallet address and then provide the date of asset sale opening after the `--date` flag.
 
-![Upload Candy Machine](https://raw.githubusercontent.com/vamsisol/create_nft_minting_website/main/learn_src/learn_assets/6_upload_candy_machine.png)
+![Upload Candy Machine](https://raw.githubusercontent.com/vamsisol/create_nft_minting_website/main/learn_src/learn_assets/6_update_candy_machine.png)
 
 And, your assets are open for sale. 
 
