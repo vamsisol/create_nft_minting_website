@@ -158,7 +158,7 @@ Every NFT minting on candy machine requires two information:
 
 Now, we will be creating the actual assets for the minting. Create a folder named `assets` in the metaplex directory. This will contain the metadata for NFTs. In this project, we will be creating a NFT of an eye image. 
 
-The image can be downloaded from ![https://raw.githubusercontent.com/vamsisol/create_nft_minting_website/main/learn_src/learn_assets/0.png](0.png).
+The image can be downloaded from ![0.png](https://raw.githubusercontent.com/vamsisol/create_nft_minting_website/main/learn_src/learn_assets/0.png).
 
 We need to follow a sequence for the assets naming, the first one being 0. In this quest, we will be minting just one image thus, 0.png and 0.json will be the two file names. The json file will contain all the metadata related to the NFT.
 
