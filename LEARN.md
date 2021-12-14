@@ -178,4 +178,4 @@ If the NFTs are already available for auction, then only the `MINT` button will 
 Alerts for all the actions will be available at the bottom of the screen. 
 
 
-Congratulations, you have now your own NFT minting website.
+Congratulations, you have now your own NFT minting website, and also an NFT for completing this quest. [Claim it now](https://alpha.layer3.xyz/task/create-your-pokemon-nft-minting-website)!
