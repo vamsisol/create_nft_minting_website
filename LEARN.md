@@ -36,7 +36,7 @@ It is mandatory to have these things before moving forward.
 - A basic understanding of the ES6 notations and ReactJS will be very helpful.
 - The views of the terminal in this quest will be from `Visual Studio Code Editor`
 - I will be turning a Pikachu Pokemon into a NFT. The links to the metadata of the assets is: 
-[JSON file](https://github.com/vamsisol/create_nft_minting_website/blob/main/learn_src/learn_assets/0.json) & [Pikachu Img](https://github.com/vamsisol/create_nft_minting_website/blob/main/learn_src/learn_assets/0.png) 
+[JSON file](https://github.com/vamsisol/create_nft_minting_website/raw/main/learn_src/learn_assets/0.json) & [Pikachu Img](https://github.com/vamsisol/create_nft_minting_website/raw/main/learn_src/learn_assets/0.png) 
 
 ## UI Setup
 
@@ -82,11 +82,11 @@ After setting up all these variables, you have completed setting up the Candy Mi
 
 Let us run the application using the command `npm start`. After a while, the compilation will be successful, you will have the terminal view like this: 
 
-![Running React App](https://github.com/vamsisol/create_nft_minting_website/blob/main/learn_src/learn_assets/1_successful_compilation.png)
+![Running React App](https://github.com/vamsisol/create_nft_minting_website/raw/main/learn_src/learn_assets/1_successful_compilation.png)
 
 A tab will be automatically opening in your default web browser, with the URL `localhost:3000`. All the react applications when started, become live on localhost on the available `PORT NUMBER`. The default one is `3000`. The view of the portal will be something like this:
 
-![React App View](https://github.com/vamsisol/create_nft_minting_website/blob/main/learn_src/learn_assets/2_react_app.png)
+![React App View](https://github.com/vamsisol/create_nft_minting_website/raw/main/learn_src/learn_assets/2_react_app.png)
 
 ## Buying NFT
 
@@ -94,7 +94,7 @@ The UI interface is now live and if deployed, others can buy NFT from this. As s
 
 I will be connecting using the Phantom wallet. After successful login, the content of the website will now be having information regarding the Candy Machine. The website will look like this: 
 
-![Wallet Login](https://github.com/vamsisol/create_nft_minting_website/blob/main/learn_src/learn_assets/3_wallet_login.png)
+![Wallet Login](https://github.com/vamsisol/create_nft_minting_website/raw/main/learn_src/learn_assets/3_wallet_login.png)
 
 > Make sure to have some SOL in the wallet to buy the NFT . If on devnet, you can airdrop fake SOL to your wallet. 
 
@@ -111,11 +111,11 @@ If there is balance in the wallet and there are NFTs remaining for sale, then th
 
 Clicking on the mint will initiate the transaction. As stated, the price for minting will be solely paid by the customer in case of Candy Machine, thus the total price of each NFT alongwith the minting price has to be paid. Initiating the mint will popup an approve transaction screen like this:
 
-![Approve Transaction](https://github.com/vamsisol/create_nft_minting_website/blob/main/learn_src/learn_assets/4_mint_nft.png)
+![Approve Transaction](https://github.com/vamsisol/create_nft_minting_website/raw/main/learn_src/learn_assets/4_mint_nft.png)
 
 Upon approving the transaction, if the stated price is available in the wallet, the NFT will be successfully bought. You can view your NFT Collectible now in your collectibles. The NFT will be visible like this:
 
-![Collectible NFT](https://github.com/vamsisol/create_nft_minting_website/blob/main/learn_src/learn_assets/5_collectible_nft.png)
+![Collectible NFT](https://github.com/vamsisol/create_nft_minting_website/raw/main/learn_src/learn_assets/5_collectible_nft.png)
 
 Congratulations, a NFT is bought from your website successfully. 
 
